@@ -25,9 +25,9 @@ type TupleToObject<T extends readonly any[]> = Record<T, T>;
 
 ## ✅ Answer
 
-`PropertyKey` 는 타입스크립트에서 지원하는 global type -> string | number | symbol
-배열의 인덱스를 `T[number]` 로 가져올 수 있고, 인덱스에 해당하는 요소를 `in T[number]` 로 가져올 수 있음
-프로퍼티의 key 타입을 `[key in T[number]]`, value 타입을 key로 지정
+- `PropertyKey` 는 타입스크립트에서 지원하는 global type -> string | number | symbol
+- 배열의 인덱스를 `T[number]` 로 가져올 수 있고, 인덱스에 해당하는 요소를 `in T[number]` 로 가져올 수 있음
+- 프로퍼티의 key 타입을 `[key in T[number]]`, value 타입을 key로 지정
 
 ```ts
 type TupleToObject<T extends readonly PropertyKey[]> = {
