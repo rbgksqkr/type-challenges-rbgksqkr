@@ -10,3 +10,4 @@ reference : [type-challenges](https://github.com/type-challenges/type-challenges
 - [[easy] 7.readOnly](https://github.com/rbgksqkr/type-challenges-rbgksqkr/blob/main/easy/readOnly.md)
 - [[easy] 11.tupleToObject](https://github.com/rbgksqkr/type-challenges-rbgksqkr/blob/main/easy/tupleToObject.md)
 - [[easy] 14.firstOfArray](https://github.com/rbgksqkr/type-challenges-rbgksqkr/blob/main/easy/firstOfArray.md)
+- [[easy] 18.lengthOfTuple](https://github.com/rbgksqkr/type-challenges-rbgksqkr/blob/main/easy/lengthOfTuple.md)
