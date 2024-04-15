@@ -12,3 +12,4 @@ reference : [type-challenges](https://github.com/type-challenges/type-challenges
 - [[easy] 14.firstOfArray](https://github.com/rbgksqkr/type-challenges-rbgksqkr/blob/main/easy/firstOfArray.md)
 - [[easy] 18.lengthOfTuple](https://github.com/rbgksqkr/type-challenges-rbgksqkr/blob/main/easy/lengthOfTuple.md)
 - [[easy] 43.exclude](https://github.com/rbgksqkr/type-challenges-rbgksqkr/blob/main/easy/exclude.md)
+- [[easy] 189.awaited](https://github.com/rbgksqkr/type-challenges-rbgksqkr/blob/main/easy/awaited.md)
